@@ -642,3 +642,26 @@ footer .f_form button:hover {
     margin-left: 70px;
   }
 }
+.adBlock{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height:250px;
+  background: rgba(73, 56, 30, 0.95);
+  border-radius: 8px;
+  border: 5px solid hsla(34, 78%, 91%,0.87);
+}
+.buttons{
+  width: 25%;
+  height:35px;
+  background-color: hsla(340, 57%, 49%, 0.85);
+  border-radius: 7.5px;
+  color:hsla(180, 100%, 97% ,0.76);
+}
+#buttonsblock{
+  display: flex;
+  flex-direction: row;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}

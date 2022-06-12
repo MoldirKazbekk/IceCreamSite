@@ -231,29 +231,6 @@ footer .f_form button:hover {
 	}
 	
   }
-
-@media (max-width: 1400px) {
-	header {
-	  height: 80px;
-	}
-	nav {
-	  flex-wrap: nowrap;
-	}
-	nav a .logo {
-	  width: 140px;
-	  height: 65px;
-	  margin-left: 50px;
-	  margin-top: 10px;
-	}
-	nav ul {
-	  margin-right: 20px;
-	}
-	nav .h_btn {
-	  margin-right: 60px;
-	}
-	
-  }
-
 @media (max-width:1200px){
     header {
         height: 80px;
